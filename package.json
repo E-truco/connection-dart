@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "ws": "^8.17.0",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "test_drive1",
+  "description": "A sample command-line application with an entrypoint in `bin/`, library code\r in `lib/`, and example unit test in `test/`.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
